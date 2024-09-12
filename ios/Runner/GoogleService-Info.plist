@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534234956335-karshphqclrd1qs8cfv2585b42bv5mvo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534234956335-karshphqclrd1qs8cfv2585b42bv5mvo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>534234956335-692aou2ck2m9ln8l1tgf9psn21furuei.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmeefgBiFbBqU-G5OJFVTgc6BFC5nte2A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534234956335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nhxt.findora</string>
+	<key>PROJECT_ID</key>
+	<string>findora-48bfd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findora-48bfd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534234956335:ios:129f7e5d99887cc2d7bcda</string>
+</dict>
+</plist>

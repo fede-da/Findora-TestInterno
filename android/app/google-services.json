@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "534234956335",
+    "project_id": "findora-48bfd",
+    "storage_bucket": "findora-48bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534234956335:android:ba02708ec15a6ffcd7bcda",
+        "android_client_info": {
+          "package_name": "com.nhxt.findora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534234956335-692aou2ck2m9ln8l1tgf9psn21furuei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhxt.findora",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "534234956335-u1gg86n3insho5vsa7s6l30ksn98vnsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhxt.findora",
+            "certificate_hash": "5360645574607528c980d86c68ce0fa8217b5716"
+          }
+        },
+        {
+          "client_id": "534234956335-u1ai7563ireavnguus5lveaf88cjvubn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87bbur3AoBqxw6X4Y0nbK6VMdwTVsDTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534234956335-q6nip75g7fdlc5269jim67pnsc2o1squ.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534234956335-karshphqclrd1qs8cfv2585b42bv5mvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nhxt.findora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
